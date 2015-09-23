@@ -49,4 +49,3 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 ##<a name="goto-swift"></a>Swift
 
 
-##<a name="goto-java"></a>Go
