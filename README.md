@@ -12,7 +12,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
   - [Rails](#goto-rails)
 
 - [Android](#goto-android)
-	- [Gradle](#goto-gradle) 
+	- [Gradle](#goto-gradle)
 
 - [iOS]()
 	- [Objective-C](#goto-objc)
@@ -40,7 +40,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 
 ## <a name="goto-angularjs"></a>AngularJS
 * [textAngular](https://github.com/fraywing/textAngular) - Provide customisable WYSIWYG text editor for angularJS.
-* [angular-busy](https://github.com/cgross/angular-busy) - Provide loading/busy indicator during any promises. 
+* [angular-busy](https://github.com/cgross/angular-busy) - Provide loading/busy indicator during any promises.
 * [alertify](http://fabien-d.github.io/alertify.js/) Easy to use dialog and provide nice callback. Unfortunately, the maintenance has stopped.
 
 
@@ -66,6 +66,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [butterknife](http://jakewharton.github.io/butterknife/) - **Android view "injection"** made easy. No need to type boilerplate `findViewById` for each views in activity.
 * [leakcanary](https://github.com/square/leakcanary) - **Android leak detector**.
 * [gson](https://github.com/google/gson) - **Simple POJO-based JSON (de)serializer**
+* [calligraphy](https://github.com/chrisjenx/Calligraphy) - **Easy tools for defining custom font in Android widget**.
 
 ### <a name="goto-gradle"></a>Gradle Plugins
 
@@ -73,6 +74,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin) - **Automatically download required SDK version and support libraries**.
 * [icon-version](https://github.com/akonior/icon-version) - **Show version number in debug app icon**.
 * [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin) - **Show method count on every build**. Stay away from 65536 method limit.
+* [retro-lambda](https://github.com/evant/gradle-retrolambda) - **Build java or android project with retrolambda**. Require **Java 8 SDK**.
 
 ## <a name="goto-objc"></a>Objective-C
 
@@ -81,5 +83,5 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 ## <a name="goto-swift"></a>Swift
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework
-* [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework. 
+* [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
