@@ -67,7 +67,10 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 
 ## <a name="goto-objc"></a>Objective-C
 
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework
 
 ## <a name="goto-swift"></a>Swift
 
-
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework
+* [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework. 
+* [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
