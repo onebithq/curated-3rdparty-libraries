@@ -12,6 +12,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
   - [Rails](#goto-rails)
 
 - [Android](#goto-android)
+	- [Gradle](#goto-gradle) 
 
 - [iOS]()
 	- [Objective-C](#goto-objc)
@@ -47,6 +48,13 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [butterknife](http://jakewharton.github.io/butterknife/) - **Android view "injection"** made easy. No need to type boilerplate `findViewById` for each views in activity.
 * [leakcanary](https://github.com/square/leakcanary) - **Android leak detector**.
 * [gson](https://github.com/google/gson) - **Simple POJO-based JSON (de)serializer**
+
+### <a name="goto-gradle"></a>Gradle Plugins
+
+* [android-check](https://github.com/noveogroup/android-check) - **PMD and checkstyle in one plugin**.
+* [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin) - **Automatically download required SDK version and support libraries**.
+* [icon-version](https://github.com/akonior/icon-version) - **Show version number in debug app icon**.
+* [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin) - **Show method count on every build**. Stay away from 65536 method limit.
 
 ## <a name="goto-objc"></a>Objective-C
 
