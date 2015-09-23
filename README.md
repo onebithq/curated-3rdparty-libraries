@@ -20,12 +20,12 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 
 
 ## <a name="goto-go"></a>Go
-* [go-simplejson](https://github.com/bitly/go-simplejson) - Easy-to-use package to interact with JSON
-* [gorilla-mux](https://github.com/gorilla/mux) - Easy and powerful URL router 
-* [amqp](https://github.com/streadway/amqp) - Complete AMQP client
-* [profile](https://github.com/davecheney/profile) - Simple profiling package 
-* [uuid](https://github.com/twinj/uuid) - UUID generator
-* [log15](https://gopkg.in/inconshreveable/log15.v2) - Pretty and simple logging package
+* [go-simplejson](https://github.com/bitly/go-simplejson) - Easy-to-use package to interact with JSON. Provide struct, getter, setter and marshal to create/read JSON.
+* [gorilla-mux](https://github.com/gorilla/mux) - Easy and powerful URL router. Provide custom routers and interface to comply with golang's http.
+* [amqp](https://github.com/streadway/amqp) - Complete AMQP client. Self-explanatory
+* [profile](https://github.com/davecheney/profile) - Simple profiling package without too much complicated configurations or http.
+* [uuid](https://github.com/twinj/uuid) - RFC4122-compliant UUID generator
+* [log15](https://gopkg.in/inconshreveable/log15.v2) - Pretty and simple logging package. Provides multiple IO, log-levels and use key-value.
 
 ## <a name="goto-php"></a>PHP
 
@@ -34,7 +34,9 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 
 
 ## <a name="goto-angularjs"></a>AngularJS
-
+* [textAngular](https://github.com/fraywing/textAngular) - Provide customisable WYSIWYG text editor for angularJS.
+* [angular-busy](https://github.com/cgross/angular-busy) - Provide loading/busy indicator during any promises. 
+* [alertify](http://fabien-d.github.io/alertify.js/) Easy to use dialog and provide nice callback. 
 
 ## <a name="goto-rails"></a>Rails
 
