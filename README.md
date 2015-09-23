@@ -39,7 +39,16 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [alertify](http://fabien-d.github.io/alertify.js/) Easy to use dialog and provide nice callback. 
 
 ## <a name="goto-rails"></a>Rails
-
+* [carrierwave](https://github.com/carrierwaveuploader/carrierwave) - Image Uploader Engine, support for S3
+* [kaminari](https://github.com/amatsuda/kaminari) - Scoped Engine Paginator
+* [god](http://godrb.com/) - A Process Monitoring
+* [foreman](https://github.com/ddollar/foreman) - Daemonize tools support for upstart, supervisord
+* [pg_search](https://github.com/Casecommons/pg_search) - Utilize Postgres Full Text Search Engine
+* [puma](http://puma.io/) - Ruby web server app
+* [paranoia](https://github.com/radar/paranoia) - Acs as paranoid on destroy
+* [byebug](https://github.com/deivid-rodriguez/byebug) - Debugging tools in ruby
+* [feedjira](https://github.com/feedjira/feedjira) - Fetch and parse feeds
+* [delayed_job_active_record](https://github.com/collectiveidea/delayed_job_active_record) - Background job using rails active record
 
 ## <a name="goto-android"></a>Android
 
