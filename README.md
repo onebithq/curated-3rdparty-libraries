@@ -11,10 +11,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 	- [AngularJS](#goto-angularjs)
   - [Rails](#goto-rails)
 
-
-- [Android]()
-	- [Java](#goto-java)
-
+- [Android](#goto-android)
 
 - [iOS]()
 	- [Objective-C](#goto-objc)
@@ -41,7 +38,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 ## <a name="goto-rails"></a>Rails
 
 
-## <a name="goto-java"></a>Android
+## <a name="goto-android"></a>Android
 
 
 ## <a name="goto-objc"></a>Objective-C
