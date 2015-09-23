@@ -1,7 +1,8 @@
-# curated-3rdparty-libraries
+# Curated 3rd Party Libraries
+
 This repository contains list of 3rd party libraries used by Onebit in our day to day development.
 
-##Contents##
+## Table of Contents
 
 - [Backend]()
 	- [Go](#goto-go)
@@ -20,7 +21,7 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 	- [Swift](#goto-swift)
 
 
-##<a name="goto-go"></a>Go
+## <a name="goto-go"></a>Go
 * [go-simplejson](https://github.com/bitly/go-simplejson) - Easy-to-use package to interact with JSON
 * [gorilla-mux](https://github.com/gorilla/mux) - Easy and powerful URL router 
 * [amqp](https://github.com/streadway/amqp) - Complete AMQP client
@@ -28,24 +29,24 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [uuid](https://github.com/twinj/uuid) - UUID generator
 * [log15](https://gopkg.in/inconshreveable/log15.v2) - Pretty and simple logging package
 
-##<a name="goto-php"></a>PHP
+## <a name="goto-php"></a>PHP
 
 
-##<a name="goto-nodejs"></a>NodeJS
+## <a name="goto-nodejs"></a>NodeJS
 
 
-##<a name="goto-angularjs"></a>AngularJS
+## <a name="goto-angularjs"></a>AngularJS
 
 
-##<a name="goto-rails"></a>Rails
+## <a name="goto-rails"></a>Rails
 
 
-##<a name="goto-java"></a>Java
+## <a name="goto-java"></a>Android
 
 
-##<a name="goto-objc"></a>Objective-C
+## <a name="goto-objc"></a>Objective-C
 
 
-##<a name="goto-swift"></a>Swift
+## <a name="goto-swift"></a>Swift
 
 
