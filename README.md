@@ -41,12 +41,12 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 ## <a name="goto-android"></a>Android
 
 * [picasso](http://square.github.io/picasso/) - **Simple image loader** with caching and fluent interface. Supports image transformations as well.
-* [retrofit]() - **Type-safe REST client**. Easy to define endpoints using java annotations.
-* [okhttp]() - **Better Android HTTP client**. Works well with picasso & retrofit.
+* [retrofit](http://square.github.io/retrofit/) - **Type-safe REST client**. Easy to define endpoints using java annotations.
+* [okhttp](http://square.github.io/okhttp/) - **Better Android HTTP client**. Works well with picasso & retrofit.
 * [timber](https://github.com/JakeWharton/timber) - **Logging wrapper**. We use it to redirect logcat to Crashlytics in non-debug builds.
-* [butterknife]() - **Android view "injection"** made easy. No need to type boilerplate `findViewById` for each views in activity.
-* [leakcanary]() - **Android leak detector**.
-* [gson]() - **Simple POJO-based JSON (de)serializer**
+* [butterknife](http://jakewharton.github.io/butterknife/) - **Android view "injection"** made easy. No need to type boilerplate `findViewById` for each views in activity.
+* [leakcanary](https://github.com/square/leakcanary) - **Android leak detector**.
+* [gson](https://github.com/google/gson) - **Simple POJO-based JSON (de)serializer**
 
 ## <a name="goto-objc"></a>Objective-C
 
