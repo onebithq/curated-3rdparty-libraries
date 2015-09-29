@@ -9,7 +9,8 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 	- [PHP](#goto-php)
 	- [NodeJS](#goto-nodejs)
 	- [AngularJS](#goto-angularjs)
-  - [Rails](#goto-rails)
+  	- [Rails](#goto-rails)
+  	- [Web Dev Tools](#goto-web-dev-tools)
 
 - [Android](#goto-android)
 	- [Gradle](#goto-gradle) 
@@ -31,18 +32,27 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 
 
 ## <a name="goto-nodejs"></a>NodeJS
-* [moment](http://momentjs.com) Provide easy methods to manipulate date in JS.
-* [lodash](https://lodash.com/) Must have utility library for JS project. Provide a lot of useful functions such as  **map, filter, omit, extend, chain**, etc.
-* [winston](https://www.npmjs.com/package/winston) Logging library that provides multiple transports.
-* [kaiseki](https://www.npmjs.com/package/kaiseki) Wrapper of Parse API.
-* [socket-io](https://www.npmjs.com/package/socket.io) Provides realtime engine that can be used for chat, notifications, etc.
+
+* [express](http://expressjs.com/) - Fast, minimalist and robust web framework for NodeJS. One of the most popular web framework in NodeJS.
+* [moment](http://momentjs.com) - Provide easy methods to manipulate date in JS.
+* [lodash](https://lodash.com/) - Must have utility library for JS project. Provide a lot of useful functions such as  **map, filter, omit, extend, chain**, etc.
+* [winston](https://www.npmjs.com/package/winston) - Logging library that provides multiple transports.
+* [kaiseki](https://www.npmjs.com/package/kaiseki) - Wrapper of Parse API.
+* [socket-io](https://www.npmjs.com/package/socket.io) - Provides realtime engine that can be used for chat, notifications, etc.
+* [sequelize](http://sequelize.readthedocs.org/) - ORM for SQL-based RDBMS. This library using promises with various features and easy to use.
+* [mongoskin](https://www.npmjs.com/package/mongoskin) - MongoDB lightweight driver. Based on node-mongodb-native.
+* [Settings](https://www.npmjs.com/package/settings) - Simple environment-based settings.
+* [formidable](https://www.npmjs.com/package/formidable) - Library for form-data parsing. Fast and able to write uploaded file to disk automatically. 
+* [debug](https://www.npmjs.com/package/debug) - small and pretty library for debugging.
+* [node-oauth2-server](https://www.npmjs.com/package/node-oauth2-server) - Complete and battle-tested library for Oauth2 server/provider. Used as middleware in expressJS.
 
 
 ## <a name="goto-angularjs"></a>AngularJS
 * [textAngular](https://github.com/fraywing/textAngular) - Provide customisable WYSIWYG text editor for angularJS.
 * [angular-busy](https://github.com/cgross/angular-busy) - Provide loading/busy indicator during any promises. 
 * [alertify](http://fabien-d.github.io/alertify.js/) Easy to use dialog and provide nice callback. Unfortunately, the maintenance has stopped.
-
+* [angular-geolocation](https://github.com/arunisrael/angularjs-geolocation) - angularjs wrapper for window.navigate.geolocation. Useful to get user's location.
+* [angular-flot](https://www.npmjs.com/package/angular-flot) - angular wrapper for Flotcharts (plotting library for jQuery)
 
 
 ## <a name="goto-rails"></a>Rails
@@ -56,6 +66,16 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [byebug](https://github.com/deivid-rodriguez/byebug) - Debugging tools in ruby
 * [feedjira](https://github.com/feedjira/feedjira) - Fetch and parse feeds
 * [delayed_job_active_record](https://github.com/collectiveidea/delayed_job_active_record) - Background job using rails active record
+
+
+## <a name="goto-web-dev-tools"></a>Web Dev Tools
+* [npm](https://www.npmjs.com/) - Package manager for Javascript and NodeJS. 
+* [bower](http://bower.io/) - Package manager for web development. It will hunt any package we need.
+* [Grunt](http://gruntjs.com/) - Automated task runner for web development. Configuration over code and uses JSON-like configuration
+* [Gulp](http://gulpjs.com/) - Automated task runner for web development. Code over configuration with simple javascript code.
+* [Composer](https://getcomposer.org/) - PHP Dependency manager
+* [Bundler](http://bundler.io/) - Ruby dependency manager
+
 
 ## <a name="goto-android"></a>Android
 
