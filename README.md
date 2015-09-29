@@ -29,6 +29,12 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [log15](https://gopkg.in/inconshreveable/log15.v2) - Pretty and simple logging package. Provides multiple transports, log-levels and use key-value.
 
 ## <a name="goto-php"></a>PHP
+* [intervention](http://image.intervention.io/) Image handling and manipulation in PHP
+* [faker](https://github.com/fzaninotto/Faker) Generates fake data
+* [sentinel](https://github.com/cartalyst/sentinel) Auth & authorize system
+* [ardent](https://github.com/laravel-ardent/ardent) Self validating models
+* [debugbar](https://github.com/barryvdh/laravel-debugbar) Debugging tools
+* [carbon](https://github.com/briannesbitt/Carbon) Extension of PHP DateTime
 
 
 ## <a name="goto-nodejs"></a>NodeJS
