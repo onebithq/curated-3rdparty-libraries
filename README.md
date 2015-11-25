@@ -93,14 +93,17 @@ This repository contains list of 3rd party libraries used by Onebit in our day t
 * [leakcanary](https://github.com/square/leakcanary) - **Android leak detector**.
 * [gson](https://github.com/google/gson) - **Simple POJO-based JSON (de)serializer**
 * [calligraphy](https://github.com/chrisjenx/Calligraphy) - **Easy tools for defining custom font in Android widget**.
+* [dagger-2](http://google.github.io/dagger/) - **Dependency injection framework**
+* [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue) - **Background queue processing**
+* [joda-time-android](https://github.com/dlew/joda-time-android) - **Android wrapper for Joda Time**. Easy date and time library.
 
 ### <a name="goto-gradle"></a>Gradle Plugins
 
-* [android-check](https://github.com/noveogroup/android-check) - **PMD and checkstyle in one plugin**.
+* [android-check](https://github.com/noveogroup/android-check) - **PMD, checkstyle, and findbugs** in one plugin.
 * [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin) - **Automatically download required SDK version and support libraries**.
 * [icon-version](https://github.com/akonior/icon-version) - **Show version number in debug app icon**.
-* [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin) - **Show method count on every build**. Stay away from 65536 method limit.
-* [retro-lambda](https://github.com/evant/gradle-retrolambda) - **Build java or android project with retrolambda**. Require **Java 8 SDK**.
+* [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin) - **Show method count on every build**. Stay away from 65536 methods limit.
+* [retro-lambda](https://github.com/evant/gradle-retrolambda) - **Build java or android project with retrolambda**. Requires **Java 8 SDK**.
 
 ## <a name="goto-objc"></a>Objective-C
 
